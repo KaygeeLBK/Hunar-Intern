@@ -9,6 +9,9 @@ This repository showcases a series of interactive Power BI dashboards developed 
 ### Overview
 The IPL Dashboard provides an in-depth analysis of team and player performance in the Indian Premier League (IPL). It offers insights into batting and bowling metrics, team performance trends, and venue-based statistics.
 
+<img width="649" height="367" alt="IPL_dashboard" src="https://github.com/user-attachments/assets/676a2c9a-ca60-43db-a671-8d9d81526955" />
+
+
 ### Tools and Technologies Used
 - **Power BI**: Data visualization and reporting
 - **DAX (Data Analysis Expressions)**: Custom calculations for key metrics
@@ -47,7 +50,8 @@ This dashboard enables users to explore IPL statistics interactively, identifyin
 The Sales Dashboard provides comprehensive insights into sales performance, revenue trends, and customer behavior, helping businesses make data-driven decisions.
 
 
-<img width="649" height="368" alt="dashboard" src="https://github.com/user-attachments/assets/02646817-fab8-45ef-8a5e-ed9d5dc80c4a" />
+<img width="655" height="365" alt="dashboard" src="https://github.com/user-attachments/assets/fb8888d1-3289-4966-a227-f82555590592" />
+
 
 
 ### Tools and Technologies Used
@@ -98,6 +102,10 @@ This dashboard empowers businesses with data-driven insights, enabling better de
 
 ### Overview
 The COVID-19 Dashboard visualizes the spread, trends, and impact of COVID-19 cases globally, offering interactive filters for region-based analysis.
+
+<img width="652" height="365" alt="covid" src="https://github.com/user-attachments/assets/470fef3e-62ea-4726-b977-af4f2487ca46" />
+
+
 
 ### Tools and Technologies Used
 - **Power BI**: Interactive data visualization and reporting
