@@ -46,6 +46,9 @@ This dashboard enables users to explore IPL statistics interactively, identifyin
 ### Overview
 The Sales Dashboard provides comprehensive insights into sales performance, revenue trends, and customer behavior, helping businesses make data-driven decisions.
 
+![My Image](./Task2-Sales-Dashboard/dashboard.png)
+
+
 ### Tools and Technologies Used
 - **Power BI**: Data visualization and interactive reporting
 - **DAX (Data Analysis Expressions)**: Custom calculations for KPIs
