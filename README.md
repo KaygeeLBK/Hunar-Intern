@@ -46,7 +46,8 @@ This dashboard enables users to explore IPL statistics interactively, identifyin
 ### Overview
 The Sales Dashboard provides comprehensive insights into sales performance, revenue trends, and customer behavior, helping businesses make data-driven decisions.
 
-![My Image](./Task2-Sales-Dashboard/dashboard.png)
+
+<img width="649" height="368" alt="dashboard" src="https://github.com/user-attachments/assets/02646817-fab8-45ef-8a5e-ed9d5dc80c4a" />
 
 
 ### Tools and Technologies Used
