@@ -131,5 +131,3 @@ This dashboard provides a data-driven approach to monitoring the pandemic's impa
 *Power BI Analyst | Data Enthusiast*  
 Driven by a passion for data-driven decision-making, I specialize in transforming raw data into meaningful insights using Power BI. My expertise includes DAX calculations, Power Query transformations, and interactive dashboard design to solve real-world problems.
 
-Feel free to connect or explore more projects! 🚀
-
